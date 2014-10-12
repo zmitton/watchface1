@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "zacmitton22@gmail.com",
+    "longName": "watchface1",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/touch-icon-ipad-precomposed.png",
+                "name": "divvy",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "watchface1",
+    "uuid": "5532abf3-4c34-4b14-9432-e5e3569e3e50",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
